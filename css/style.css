@@ -1,0 +1,96 @@
+	@font-face{
+		font-family: "acme";
+		font-family: "cakra";
+		
+		src: url('../css/font/ChakraPetch-Regular.ttf');
+		src:url('../css/font/Acme-Regular.ttf');
+	}
+	
+.jumbotron{
+	background-image: url('../image/jumbotron1.png');
+	height: 420px;
+	background-size: cover;
+	text-align: center;
+	color: #FFF;
+}
+
+.jumbotron h1{
+	font-size: 60px;
+	font-family: "acme";
+	margin-top: 100px;	
+}
+
+.jumbotron h3{
+	font-size: 30px;
+	font-family: "acme";
+	text-transform: capitalize;
+}
+.img{
+	height: 200px;
+	width: 100%;
+
+}
+.row{
+	margin-top: -10px;
+	margin-left: -150px;
+}
+.row p{
+
+	font-size: 25px;
+	text-align: justify;
+	text-indent: 40px;
+}
+.img4{
+	margin-top: 8px;
+}
+ .img4 h1{
+	 font-family:"acme";
+	
+ }
+
+ .jb1{
+	 background-image: url('../image/jumbotron1.png');
+	 width:1367px;
+	 height: 600px;
+	 padding: 25px;
+	 margin-top: 20px;
+	 margin-left: -135px;
+	 border-radius: 25px;
+ }
+ .form{
+	 margin-top: -40px;
+	 padding: 70px;
+	 background: rgba(85, 59, 38, 0.6);
+	 width: 92%;
+	 margin-left: 150px;
+	 
+ }
+ input[type="email"],input[type="password"],input[type="text"]{
+	 background: transparent;
+	 text-align: center;
+ }
+
+ .form1{
+	margin-top: -40px;
+	padding: 80px;
+	background: rgba(85, 59, 38, 0.6);
+	margin-left: 100px;
+ }
+
+ .row1{
+	 margin-top: 45px;
+ }
+ .form1 h1{
+	 margin-top: 80px;
+	 font-size: 40px;
+	 border: none;
+ }
+ .table{
+	 font-size: 20px;
+	 text-align: left;
+	 font-family: "acme";
+ }
+ .form p{
+	 text-align: center;
+	 margin-top: -30px;
+ }
